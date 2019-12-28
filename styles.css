@@ -42,7 +42,7 @@ a:hover {
   
   
 }
-.nav {
+.navigation {
   display: flex;
   justify-content: space-around;
   font-weight: 700;
@@ -51,18 +51,18 @@ a:hover {
   padding: 0;
 }
 
-.nav .name {
+.navigation .name {
     display: block;
     margin-right: auto;
     color: white;
 }
-.nav li {
+.navigation li {
   padding: 5px 10px 10px 10px;
 }
-.nav a {
+.navigation a {
   transition: all .5s;
 }
-.nav a:hover {
+.navigation a:hover {
   color: white;
 }
 
@@ -220,7 +220,7 @@ a.social:hover {
   
   
 
-  .nav {
+  .navigation {
     max-width: 1200px;
     padding: 0 30px;
   }
